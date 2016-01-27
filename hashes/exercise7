@@ -1,3 +1,0 @@
-x = "hi there"
-my_hash = {x: "some value"}   # symbol x is used as the key
-my_hash2 = {x => "some value"}  # used string value of x variable as key
