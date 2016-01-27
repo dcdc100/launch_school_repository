@@ -1,0 +1,4 @@
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+    from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
+    
+    error message tells us that there's a syntax error and it's expecting a '}' instead of ')'
